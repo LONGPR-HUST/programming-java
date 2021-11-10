@@ -1,13 +1,14 @@
-package hust.longpr;
+package hust.longpr.basejava;
 
-public class DoWhileLoop {
+public class WhileLoop {
 
 	public static void main(String[] args) {
 		int i = 1;
-		do {
+		while(i <= 5) {
 			System.out.println(i);
 			i++;
-		} while (i <= 5);
+		}
+		
 	}
 
 }

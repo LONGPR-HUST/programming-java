@@ -1,4 +1,4 @@
-package hust.longpr;
+package hust.longpr.basejava;
 
 import java.util.Scanner;
 

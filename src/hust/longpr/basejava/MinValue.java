@@ -1,4 +1,4 @@
-package hust.longpr;
+package hust.longpr.basejava;
 
 public class MinValue {
 //	public int min(int a, int b) {

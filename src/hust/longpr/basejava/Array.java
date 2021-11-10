@@ -1,4 +1,4 @@
-package hust.longpr;
+package hust.longpr.basejava;
 
 public class Array {
 	public static void main(String[] args) {
