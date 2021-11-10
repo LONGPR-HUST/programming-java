@@ -11,7 +11,7 @@ public class Sum {
 		b = scanner.nextInt();
 		sum = a + b;
 		System.out.println("Sum = " + sum);
-		System.out.println("Da sua");
+
 
 	}
 
